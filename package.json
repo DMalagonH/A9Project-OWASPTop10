@@ -11,5 +11,9 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "jquery": "^1.5.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-retire": "^1.0.7"
   }
 }
