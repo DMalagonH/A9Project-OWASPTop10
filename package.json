@@ -1,0 +1,15 @@
+{
+  "name": "a9-owasp-project",
+  "version": "1.0.0",
+  "description": "Proyecto sobre vulnerabilidades conocidas (A9 OWASP Top 10)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^1.5.1"
+  }
+}
